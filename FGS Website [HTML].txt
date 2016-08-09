@@ -5,6 +5,11 @@
 <h1> Welcome to Filler Games </h1>
 	<h4> About Us </h4>
 	<p> Filler Games is an up and coming game development company, run by 3 young prodigies.
+	<div class="container">
+   <div class="box">
+			<div class="clock"></div>
+			<p>Clock</p>
+		</div>
 	</p>
 
 
